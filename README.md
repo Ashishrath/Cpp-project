@@ -1,8 +1,8 @@
-#Product Sales Analysis
+# Product Sales Analysis
 
 This C++ program reads product information and sales data from CSV files, processes the information, and provides insights into the total sales of each product. The code is organized into classes for Product and Sales, demonstrating basic Object-Oriented Programming (OOP) concepts.
 
-##Features
+## Features
 
 **Product Class:** Represents product information, including ID, name, and price. Provides methods for accessing product details and displaying product information.
 
